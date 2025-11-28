@@ -1,2 +1,2 @@
 # team-practice-repo
-Aの編集2 新しいヘッダー情報
+Aの編集とBの編集を解決
