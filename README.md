@@ -1,2 +1,3 @@
 # team-practice-repo
-Aの編集1 新しいヘッダー情報
+
+競合を解決した
